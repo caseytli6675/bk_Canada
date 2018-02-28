@@ -1,0 +1,8 @@
+Momentum Factor Backtest Summary ,,,,,,
+Factor,Horizon, Average IC , IC T-stat , Average T/B Spread , Cumulative T/B Spread , Average Turnover 
+12_1M,1 Month, 0.0329 , 1.8266 ,0.55%,39.82%,52.45%
+1M_1W,1 Month, 0.0293 , 1.9231 ,0.93%,145.33%,80.36%
+6_1M,1 Month, 0.0133 , 0.8867 ,0.21%,0.59%,62.53%
+3_1M,1 Month, 0.0109 , 0.7982 ,-0.02%,-19.49%,72.02%
+Neg_1M_priceRet (1mth Reversal),1 Month, 0.0063 , 0.3775 ,0.22%,1.55%,78.07%
+"Notes: universe MSCI CAN IMI, period 10 years, rebalance montly, 5 quantiles",,,,,,
